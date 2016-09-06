@@ -38,9 +38,11 @@ Find various aspect of audience/customer
 Users
 
 2. potential users
-   Can’t really tell whether specific places are fully occupied or not for example they need to travel to Learning Point whether to discover that places is actually full or not.
+   - Can’t really tell whether specific places are fully occupied or not for example they need to travel to Learning Point whether to discover that places is actually full or not.
+   
 3. (user’s) behaviors
    They didn't look at paper around MMU on the news board and sometimes it can stuck there for years and not been updated.
+
 4. (user’s) attitudes
    Still cannot find specific places such as lecturer’s room number.
 5. (user’s) aptitudes
