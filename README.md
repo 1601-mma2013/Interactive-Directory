@@ -66,8 +66,11 @@ Users
 user and customer archetypes
 
 **Name**: Aina
+
 **Age**: 22
+
 **Gender**: Female
+
 **Faculty**: Faculty of Creative Multimedia
 
 1. goals
