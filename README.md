@@ -65,19 +65,31 @@ Users
 ### a. Personas
 user and customer archetypes
 
-1. **goals**
+**Name**: Aina
+**Age**: 22
+**Gender**: Female
+**Faculty**: Faculty of Creative Multimedia
+
+1. goals
+   - To search for MMU Learning Point whether full or not.
 
 2. Patterns in user and customer behaviors
+   - Sometimes Aina goes to Learning Point for study but there is full and noisy so she decided to change venue.
 
 3. attitudes
+   - Aina is a hard-working student and she loves reading and studying.
 
 4. aptitudes
+   - She doesn't like to be in noisy situations.
 
 5. environments
+   - Quiet and peaceful.
 
 6. tools
+   - Finger to search on map.
 
 7. challenges
+   - Correctness number of peoples detection.
 
 ### b. Other Models
 Represent domain factors beyond individual users and customers
