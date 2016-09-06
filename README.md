@@ -2,9 +2,7 @@
 # I. Analysis
 ## 1. Research  
 ### a. Scope
-Define project goals and schedule
-1. objectives
-In which way will your project solve user鈥檚 problem?
+The objectives for this project is to allow user to view real-time information about MMU such as map, number counter in certain places, news and etc.
 
 ### b. Audit
 Review existing work and product
