@@ -41,20 +41,25 @@ Users
    - Can’t really tell whether specific places are fully occupied or not for example they need to travel to Learning Point whether to discover that places is actually full or not.
    
 3. (user’s) behaviors
-   They didn't look at paper around MMU on the news board and sometimes it can stuck there for years and not been updated.
+   - They didn't look at paper around MMU on the news board and sometimes it can stuck there for years and not been updated.
 
 4. (user’s) attitudes
-   Still cannot find specific places such as lecturer’s room number.
+   - Still cannot find specific places such as lecturer’s room number.
+   
 5. (user’s) aptitudes
-   They're less open website to find specific information about MMU, interactive map would help and serve them.
+   - They're less open website to find specific information about MMU, interactive map would help and serve them.
+
 6. (user’s) motivations
-   By using interactive map they could save their energy.
+   - By using interactive map they could save their energy.
+
 7. (user’s) environments
-   University Club Committee having a hard time to recruit members in specific area of knowledge.
+   - University Club Committee having a hard time to recruit members in specific area of knowledge.
+
 8. (user’s) tools
-   Student are lazy to open MMU portal or MMLS to update news other than their subject.
+   - Student are lazy to open MMU portal or MMLS to update news other than their subject.
+
 9. (user’s) challenges
-   Don’t know what is going on in another faculty that may have related to other faculty.
+   - Don’t know what is going on in another faculty that may have related to other faculty.
 
 ## 2. Modeling
 ### a. Personas
