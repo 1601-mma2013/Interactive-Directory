@@ -126,7 +126,7 @@ Describe necessary capabilities of the product
 
 ## 4. Design Framework
 ### a. Elements
-De铿乶e manifestations of information and functionality
+Design manifestations of information and functionality
 1. Information
 
 2. functions
@@ -149,3 +149,5 @@ Design overall structure of user experience
 	8. storyboards
 ### c. Key Path and Validation Scenarios
 Describe how the persona interacts with the product
+
+
