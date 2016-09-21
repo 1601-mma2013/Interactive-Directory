@@ -19,17 +19,19 @@ Review existing work and product
 
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
-1. product{project} vision 
+
+Product{project} vision 
 - to improve efficiency of obtaining and giving information in MMU
 
-risk
-- Someone will vandalize or steal parts of the kiosk.
+Risk
+- Someone will vandalize or steal parts of the kiosk
  
 What is the worst result?
 -No one will use the kiosk to obtain information
 
-3. Obstacles
--To set 
+Obstacles
+-To ensure the safety of the product from vandalizing or loss of the parts due to the set-up in the open space
+
 4. constraints 
 	1. Internal limitations 
 		2. viable technologies
