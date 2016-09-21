@@ -162,3 +162,5 @@ Design overall structure of user experience
 		2. Territories of each functional & design elements
 		3. Arrangements of containers & components
 2. Key path Scenario
+
+  ![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/mmu/interaction%20diagram_zpsvlvp92xq.jpg)
