@@ -1,7 +1,7 @@
 #Group Member's Name:
-####-Megat Danish Andzar bin Abd Samad (1132702823)
-####-Chin Lee Yuen (1142701984)
-####-Nursyazana Nadzirah bt Yusof ( 1151302850)
+####1.	Megat Danish Andzar bin Abd Samad	(1132702823)
+####2.	Chin Lee Yuen 				(1142701984)
+####3.	Nursyazana Nadzirah bt Yusof 		(1151302850)
 
 # Interactive Directory
 # I. Analysis
