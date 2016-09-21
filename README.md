@@ -31,7 +31,7 @@ Understand product vision and constraints
 		2. viable technologies
 		2. cost
 5. opportunities 
-	1. **In spite of** the obstacles we have this project has strength from a), b), c), 鈥? 
+	1. **In spite of** the obstacles we have this project has strength from a), b), c), ... 
 	2. Persisting problem
 
 5. users 
