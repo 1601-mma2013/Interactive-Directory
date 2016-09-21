@@ -15,7 +15,10 @@ Review existing work and product
    
 2. competitors / alternatives / replacement
 
-4. relevant technologies 
+4. relevant technologies
+
+5.SWOT Analysis
+![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/14393793_10205278155431723_2138976217_o_zpswoptk85z.jpg)
 
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
@@ -173,9 +176,7 @@ Design overall structure of user experience
 
 1. Sketch
 	1. if your project is a design product
-		1. Your sketch must be a wireframe.
-	2. if your project is a installation project
-		1. Your sketch must be a installation sketch.
+	
 	3. Must have
 		1. groupings and hierarchy
 		  ![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/mmu/interaction%20diagram_zpsvlvp92xq.jpg)
