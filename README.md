@@ -128,14 +128,14 @@ Notice how the scenario remains at a fairly high level, without getting too spec
 ### b. Requirements
 Describe necessary capabilities of the product
 - Functional and data needs
-	-Live Feed
-	-Counter
-	-Announcement
-	-News
-	-Advertisement
-	-Map
-	-Lecturer Availability
-	-Search Bar
+>Live Feed
+>Counter
+>Announcement
+>News
+>Advertisement
+>Map
+>Lecturer Availability
+>Search Bar
 
 - user mental models
 - design imperatives
