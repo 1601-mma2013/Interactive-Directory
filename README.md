@@ -1,3 +1,8 @@
+Group Member's Name:
+Megat Danish Andzar bin Abd Samad (1132702823)
+Lee Yuen 
+Nursyazana Nadzirah bt Yusof ( 1151302850)
+
 # Interactive Directory
 # I. Analysis
 ## 1. Research  
