@@ -12,7 +12,7 @@ The objectives for this project is to allow user to view real-time information a
 ### b. Audit
 Review existing work and product
 1. Field (market) research
-   - to improve efficiency of obtaining and giving information in MMU
+   
 2. competitors / alternatives / replacement
 
 4. relevant technologies 
@@ -20,7 +20,7 @@ Review existing work and product
 ### c. Stakeholder Interviews (internal / external)
 Understand product vision and constraints
 1. product{project} vision 
-
+- to improve efficiency of obtaining and giving information in MMU
 2. risk
 	3. What is the worst result?
 
