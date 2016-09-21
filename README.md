@@ -35,10 +35,10 @@ Obstacles
 4. constraints 
 	1. Internal limitations 
 		2. viable technologies
-		2. cost
+		2. Very Costly - Use a lot of mechanical parts.
 5. opportunities 
-	1. Strength: Can generate income for faculty by displaying paid advertisement
-	2. Persisting problem
+	1. Strength: Can generate income for university by displaying paid advertisement when someone not using the product
+	
 
 5. users 
 
