@@ -13,11 +13,12 @@ The objectives for this project is to allow user to view real-time information a
 Review existing work and product
 1. Field (market) research
    
-2. competitors / alternatives / replacement
+2. Competitors / alternatives / replacement
+![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/auditcompetitor_zpsh3u5p0yg.jpg)
 
-4. relevant technologies
+3. Relevant technologies
 
-5.SWOT Analysis
+4. SWOT Analysis
 ![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/14393793_10205278155431723_2138976217_o_zpswoptk85z.jpg)
 
 ### c. Stakeholder Interviews (internal / external)
