@@ -22,7 +22,7 @@ Understand product vision and constraints
 1. product{project} vision 
 - to improve efficiency of obtaining and giving information in MMU
 
-2. risk
+risk
 - Someone will vandalize or steal parts of the kiosk.
  
 What is the worst result?
