@@ -150,4 +150,4 @@ Design overall structure of user experience
 ### c. Key Path and Validation Scenarios
 Describe how the persona interacts with the product
 
-
+![alt tag](file:///C:/Users/User/Downloads/Documents/MMU%20doc/interaction%20diagram.jpg)
