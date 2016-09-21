@@ -21,17 +21,21 @@ Review existing work and product
 Understand product vision and constraints
 1. product{project} vision 
 - to improve efficiency of obtaining and giving information in MMU
+
 2. risk
-	3. What is the worst result?
+- Someone will vandalize or steal parts of the kiosk.
+ 
+What is the worst result?
+-No one will use the kiosk to obtain information
 
 3. Obstacles
-	1. external threats 
+-To set 
 4. constraints 
 	1. Internal limitations 
 		2. viable technologies
 		2. cost
 5. opportunities 
-	1. **In spite of** the obstacles we have this project has strength from a), b), c), ... 
+	1. Strength: Can generate income for faculty by displaying paid advertisement
 	2. Persisting problem
 
 5. users 
