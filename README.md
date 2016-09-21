@@ -142,6 +142,10 @@ Describe necessary capabilities of the product
 - product vision
 - business requirements
 - technology
+     - Touch screen
+     - Sensor
+     - Wireless
+     - Internet
 
 ## 2. Design Framework
 ### a. Elements
