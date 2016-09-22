@@ -17,6 +17,8 @@ Review existing work and product
 ![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/auditcompetitor_zpsh3u5p0yg.jpg)
 
 3. Relevant technologies
+   - multi-Touch kiosk
+   - sensor(human detection)
 
 4. SWOT Analysis
 ![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/14393793_10205278155431723_2138976217_o_zpswoptk85z.jpg)
