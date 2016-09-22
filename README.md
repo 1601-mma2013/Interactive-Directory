@@ -125,7 +125,6 @@ Represent domain factors beyond individual users and customers
 # II. Synthesis
 ## 1. Requirements Definition
 ### a. Context Scenarios
-A sample context scenario
 
 The following is the first iteration of a context scenario for a primary persona for a campus interactive directory, including both the device and its service. Our persona is Aina, a FCM student in Multimedia University, whose goal to achieve excellent result on her studies in Advertising Design course.
 
@@ -163,12 +162,12 @@ Describe necessary capabilities of the product
 ### a. Elements
 Define manifestations of information and functionality
 1. Information
-	2. form factor
+	2. form factor - A rectangular kiosk with 16:9 screen 
 	3. posture
-	4. input method
+	4. input method - Touchscreen
 
 2. functional and data elements
-	- information
+	- information: Announcement, news, lecturer availability, no of people at specific places and live feed
 	- functions
 	- mechanisms
 	- actions
