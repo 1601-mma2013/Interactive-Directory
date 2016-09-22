@@ -7,7 +7,7 @@
 # I. Analysis
 ## 1. Research  
 ### a. Scope
-Ojective - to ensure the increases of productivity of the student by increasing their efficiency of receiving and gaining information about MMU and their respective faculty.
+Objective - to ensure the increases of productivity of the student by increasing their efficiency of receiving and gaining information about MMU and their respective faculty.
 
 ### b. Audit
 Review existing work and product
