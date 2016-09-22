@@ -67,16 +67,18 @@ Users
  
    
 5. (user’s) aptitudes
-   - Will not
+
 
 6. (user’s) motivations
-   - By using interactive map they could save their energy.
+   - Student will increase their productivity if they can obtain more information that beneficial for themselves easily.
 
 7. (user’s) environments
-   - University Club Committee having a hard time to recruit members in specific area of knowledge.
+   - There is no detailed map in the MMU, only the large scale of the map showing buildings.
+   - There is no interactive ads
+   - Using to much paper to promote or advertise something
 
 8. (user’s) tools
-   - Student are lazy to open MMU portal or MMLS to update news other than their subject.
+   - Only have MMU and Faculty website to access detailed information about MMU and not everyone have access to the Internet using mobile.
 
 9. (user’s) challenges
    - Don’t know what is going on in another faculty that may have related to other faculty.
