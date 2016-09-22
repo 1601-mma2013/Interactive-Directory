@@ -62,10 +62,12 @@ Users
    - Can’t really tell whether specific places are fully occupied or not for example they need to travel to Learning Point whether to discover that places is actually full or not.
 
 4. (user’s) attitudes
-   - Still cannot find specific places such as lecturer’s room number.
+   - Not really pay attention to the notice board because sometime it is not updated for years.
+   - Depended on circles of acquaintances experiences when it comes to certain location in MMU because there are no map to show location where is the exact location that they want to go.
+ 
    
 5. (user’s) aptitudes
-   - They're less open website to find specific information about MMU, interactive map would help and serve them.
+   - Will not
 
 6. (user’s) motivations
    - By using interactive map they could save their energy.
