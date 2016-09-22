@@ -7,7 +7,7 @@
 # I. Analysis
 ## 1. Research  
 ### a. Scope
-The objectives for this project is to allow user to view real-time information about MMU such as map, number counter in certain places, news and etc.
+Ojective - to ensure the increases of productivity of the student by increasing their efficiency of receiving and gaining information about MMU and their respective faculty.
 
 ### b. Audit
 Review existing work and product
