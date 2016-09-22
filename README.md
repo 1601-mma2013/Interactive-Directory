@@ -41,7 +41,6 @@ Obstacles
 
 4. constraints 
 	1. Internal limitations 
-		2. viable technologies
 		2. Very Costly - Use a lot of mechanical parts.
 5. opportunities 
 	1. Strength: Can generate income for university by displaying paid advertisement when someone not using the product
@@ -56,10 +55,11 @@ Find various aspect of audience/customer
 Users
 
 2. potential users
-   - Can’t really tell whether specific places are fully occupied or not for example they need to travel to Learning Point whether to discover that places is actually full or not.
+   - Visitors, Students, Staffs and Lecturers of MMU
    
 3. (user’s) behaviors
    - They didn't look at paper around MMU on the news board and sometimes it can stuck there for years and not been updated.
+   - Can’t really tell whether specific places are fully occupied or not for example they need to travel to Learning Point whether to discover that places is actually full or not.
 
 4. (user’s) attitudes
    - Still cannot find specific places such as lecturer’s room number.
