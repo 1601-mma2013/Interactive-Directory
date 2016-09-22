@@ -96,25 +96,24 @@ user and customer archetypes
 Aina is 22 years old girl who further her study in Multimedia University, majoring in Media Arts. Her past record in his previous college was outstanding where she achieved 3.9 CGPA and very active in sports and club activities. She wants to continue active in club and sports and maintaning the result. Unfortunately, she is new to MMU environment and doesn't familiar with it yet.
 
 1. goals
-   - To search for MMU Learning Point whether full or not.
+   - To achieved high CGPA by consulting with lecturers other than class time.
 
 2. Patterns in user and customer behaviors
-   - Sometimes Aina goes to Learning Point for study but there is full and noisy so she decided to change venue.
+   - Sometimes Aina goes to Learning Point for study but there is full so she decided to change venue.
 
 3. attitudes
-   - Aina is a hard-working student and she loves reading and studying.
+   - Aina is a hard-working student and she loves reading and studying with her friends, male and female.
 
 4. aptitudes
-   - She doesn't like to be in noisy situations.
+   - She doesn't like to be in noisy situations and doesn't like to waste her energy to do something that not benefit to her.
 
 5. environments
-   - Quiet and peaceful.
 
 6. tools
-   - Finger to search on map.
+   - Depended on FCM and MMU website for information, required mobile data.
 
 7. challenges
-   - Correctness number of peoples detection.
+   - Always don't know about availability in the library.
 
 ### b. Other Models
 Represent domain factors beyond individual users and customers
