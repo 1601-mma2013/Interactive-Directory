@@ -93,6 +93,8 @@ user and customer archetypes
 
 **Faculty**: Faculty of Creative Multimedia
 
+Aina is 22 years old girl who further her study in Multimedia University, majoring in Media Arts. Her past record in his previous college was outstanding where she achieved 3.9 CGPA and very active in sports and club activities. She wants to continue active in club and sports and maintaning the result. Unfortunately, she is new to MMU environment and doesn't familiar with it yet.
+
 1. goals
    - To search for MMU Learning Point whether full or not.
 
