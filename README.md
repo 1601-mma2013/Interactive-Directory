@@ -46,8 +46,6 @@ Obstacles
 	1. Strength: Can generate income for university by displaying paid advertisement when someone not using the product
 	
 
-5. users 
-
 ### d. User observations
 Understand user needs and behavior and describe it.
 Find various aspect of audience/customer
