@@ -162,16 +162,16 @@ Describe necessary capabilities of the product
 ### a. Elements
 Define manifestations of information and functionality
 1. Information
-	2. form factor - A rectangular kiosk with 16:9 screen 
-	3. posture
-	4. input method - Touchscreen
+	2. Form factor - A rectangular kiosk with 16:9 screen 
+	3. Posture
+	4. Input Method - Touchscreen
 
-2. functional and data elements
-	- information: Announcement, news, lecturer availability, no of people at specific places and live feed
-	- functions
-	- mechanisms
-	- actions
-	- domain object models
+2. Functional and Data Elements
+	- Information: Announcement, news, lecturer availability, no of people at specific places and live feed
+	- Functions
+	- Mechanisms
+	- Actions
+	- Domain object models
 
 ### b. Framework
 Design overall structure of user experience
