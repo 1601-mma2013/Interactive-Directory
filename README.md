@@ -7,7 +7,7 @@
 # I. Analysis
 ## 1. Research  
 ### a. Scope
-Objective - to ensure the increases of productivity of the student by increasing their efficiency of receiving and gaining information about MMU and their respective faculty.
+Objective - to ensure the increases of productivity of the student by increasing their efficiency of receiving and gaining information about MMU and their respective faculty
 
 ### b. Audit
 Review existing work and product
@@ -17,9 +17,37 @@ Review existing work and product
 ![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/auditcompetitor_zpsh3u5p0yg.jpg)
 
 3. Relevant technologies
-   - Multi-Touch Kiosk
-   - Sensor
-   - GPS Function
+   1.	For targeted user to interact (Output):
+
+      1.	Touch – Screen based Kiosks
+           - *(user will interact with it to receive every kind of information provided)*
+      2.	Search Bar       
+           - *(will provide a box for user to type a keyword that they needed to find information)*
+
+   2.	To connect with the kiosks or built-in the kiosk:
+
+      1.	Boolean Type Input Switch
+          - *(the switch will be use to provide input for lecturer’s availability)*
+      2.	Camera Live Streaming
+          - *(the camera will provide the real-time view of intended places)*
+      3.	MMU and Faculty Announcement Web Pages
+          - *(the Web Pages will provide the latest announcement about MMU activities)*
+      4.	Lecturer’s Brief Information Web Pages
+          - *(will provide information about the lecturer’s room number, availability and room location)*
+      5.	Map of MMU with GPS-like Function
+          - *(will provide information about the lecturer’s room number, availability and room location)*
+      6.	Search Directory
+          - *(will provide a list of possible information based on specific keywords used by the user)*
+
+   3.	For user to control (Input):
+
+      1.	MMU and Faculty Announcement Web Pages
+          - *(the Web Pages will be updated by a person in-charge of this system)*
+      2.	Lecturer Brief Information Web Pages
+          - *(the Web Pages will be updated by a person in-charge of this system)*
+      3.	Boolean Type Input Switch
+          - *(lecturer will decide the availability of themselves)*
+
 
 4. SWOT Analysis
 ![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/14393793_10205278155431723_2138976217_o_zpswoptk85z.jpg)
@@ -28,10 +56,17 @@ Review existing work and product
 Understand product vision and constraints
 
 Product{project} Vision 
-- to improve efficiency in obtaining and giving information in MMU
+- to ensure the increases of productivity of the student by increasing their efficiency of receiving and gaining information about MMU and their respective faculty
 
 Risk
-- Someone is capable in vandalizing or stealing parts of the kiosk
+- Someone may vandalize or steal part of the kiosks 
+(can be prevent by using safer material to cover the kiosk but it will add on financial constraints because it is very expensive)
+- Internal or External parts of the system may stop working or malfunction
+(it may not work due to some internal technical issues that can be solved by hiring technician to maintain the kiosk but it will add up on financial constraints because we need to pay the technician and the replacement for the damaged parts)
+- Software may have some bug and error
+(can be solved by hiring programmer to handle the software system but it will add up on financial constraints because we need to pay the - Stop functioning if blackout happen in the campus because the system required electricity and internet access to function
+(can be solved by doing alternate wiring for the kiosk and directed it to backup generator other than main generator)
+
  
 What is the worst result?
 -No one will use the kiosk to obtain information
