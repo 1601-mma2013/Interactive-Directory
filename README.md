@@ -28,7 +28,7 @@ Review existing work and product
 Understand product vision and constraints
 
 Product{project} vision 
-- to improve efficiency of obtaining and giving information in MMU
+- to improve efficiency in obtaining and giving information in MMU
 
 Risk
 - Someone will vandalize or steal parts of the kiosk
