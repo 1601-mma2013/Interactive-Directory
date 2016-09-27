@@ -181,6 +181,8 @@ Design overall structure of user experience
 		1. Your sketch must be a wireframe.
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch1_zpsj3cyqfnu.jpg)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch2_zps4hrz5sob.jpg)
+		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch3_zpsc0152b7m.jpg)
+		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch2_zps4hrz5sob.jpg)
 	3. Must have
 		1. groupings and hierarchy
 		  ![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/mmu/interaction%20diagram_zpsvlvp92xq.jpg)
