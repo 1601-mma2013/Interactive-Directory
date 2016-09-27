@@ -31,7 +31,7 @@ Product{project} vision
 - to improve efficiency in obtaining and giving information in MMU
 
 Risk
-- Someone will vandalize or steal parts of the kiosk
+- Someone is capable in vandalizing or stealing parts of the kiosk
  
 What is the worst result?
 -No one will use the kiosk to obtain information
@@ -52,19 +52,19 @@ Find various aspect of audience/customer
 
 Users
 
-2. potential users
+2. Potential Users
    - Visitors, Students, Staffs and Lecturers of MMU
    
-3. (user’s) behaviors
+3. (User’s) Behaviors
    - They didn't look at paper around MMU on the news board and sometimes it can stuck there for years and not been updated.
    - Can’t really tell whether specific places are fully occupied or not for example they need to travel to Learning Point whether to discover that places is actually full or not.
 
-4. (user’s) attitudes
+4. (User’s) Attitudes
    - Not really pay attention to the notice board because sometime it is not updated for years.
    - Depended on circles of acquaintances experiences when it comes to certain location in MMU because there are no map to show location where is the exact location that they want to go.
  
    
-5. (user’s) aptitudes
+5. (User’s) Aptitudes
 
 
 6. (user’s) motivations
