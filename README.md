@@ -183,6 +183,7 @@ Design overall structure of user experience
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch2_zps4hrz5sob.jpg)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch3_zpsc0152b7m.jpg)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch4_zpsy2lhbhr7.jpg)
+		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch5_zpshhldcqsl.jpg)
 	3. Must have
 		1. groupings and hierarchy
 		  ![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/mmu/interaction%20diagram_zpsvlvp92xq.jpg)
