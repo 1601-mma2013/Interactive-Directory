@@ -107,21 +107,21 @@ Aina is 22 years old girl who further her study in Multimedia University, majori
 4. Aptitudes
    - She does not like to be in a noisy environment and does not prefer wasting her energy to do something that does not bring any benefit to her.
 
-5. environments
+5. Environments
 
-6. tools
-   - Depended on FCM and MMU website for information, required mobile data.
+6. Tools
+   - Depends on FCM and MMU website for information, required mobile data.
 
-7. challenges
-   - Always don't know about availability in the library.
+7. Challenges
+   - Does not know about availability in the library.
 
 ### b. Other Models
 Represent domain factors beyond individual users and customers
 1. Workflows among multiple people
 
-2. environments
+2. Environments
 
-3. artifacts
+3. Artifacts
 # II. Synthesis
 ## 1. Requirements Definition
 ### a. Context Scenarios
@@ -148,11 +148,11 @@ Describe necessary capabilities of the product
      - Lecturer Availability
      - Search Bar
 
-- user mental models
-- design imperatives
-- product vision
-- business requirements
-- technology
+- User Mental Models
+- Design Imperatives
+- Product Vision
+- Business Requirements
+- Technology
      - Touch screen
      - Sensor
      - Wireless
