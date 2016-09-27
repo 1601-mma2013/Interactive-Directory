@@ -179,7 +179,8 @@ Design overall structure of user experience
 1. Sketch
 	1. if your project is a design product
 		1. Your sketch must be a wireframe.
-		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/interaction-sketch_zps7pdicmld.jpg)
+		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch_zpsd7cbhtbi.jpg)
+		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch_zpsd7cbhtbi.jpg)
 	3. Must have
 		1. groupings and hierarchy
 		  ![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/mmu/interaction%20diagram_zpsvlvp92xq.jpg)
