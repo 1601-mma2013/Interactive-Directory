@@ -58,7 +58,7 @@ Understand product vision and constraints
 Product{project} Vision 
 - to ensure the increases of productivity of the student by increasing their efficiency of receiving and gaining information about MMU and their respective faculty
 
-Risk
+Risk/Obstacles
 - Someone may vandalize or steal part of the kiosks 
    - *(can be prevent by using safer material to cover the kiosk but it will add on financial constraints because it is very expensive)*
 - Internal or External parts of the system may stop working or malfunction
@@ -67,9 +67,6 @@ Risk
     - *(can be solved by hiring programmer to handle the software system but it will add up on financial constraints because we need to pay the programmer)*
 - Stop functioning if blackout happen in the campus because the system required electricity and internet access to function
     - *(can be solved by doing alternate wiring for the kiosk and directed it to backup generator other than main generator)*
-
-Obstacles
--To ensure the safety of the product from vandalizing or loss of the parts due to the set-up in the open space
 
 Constraints 
 - Very high budget setup 
@@ -126,10 +123,13 @@ A matter or situation regarded as unwelcome or harmful and needing to be dealt w
 
 •	Don’t know or miss some events or important announcement that related with the student
 (This happen when user did not access to the MMU portal or get tired accessing the website everyday but no announcement is related to them)
+
 •	Doesn’t know about lecturer’s information that they are not familiar with including room number
 (This happen when student enter new trimester where some subject is being coordinated by unfamiliar or new lecturer)
+
 •	Don’t know whether a specific place is fully occupied or available for them
 (This happen during peak hour on certain area like Learning Point, Central Food Court, Mamak in Faculty of Creative Media, Faculty of Management Café and any other ‘popular’ places)
+
 •	Don’t know a certain location in MMU probably rooms in another faculty or other management office in MMU
 (This happen when student need to borrow something that belong to MMU for example the one who handle the works or electrical components in MMU is Facilities Management Department and not all students know where is their office location)
 
@@ -205,7 +205,7 @@ A matter or situation regarded as unwelcome or harmful and needing to be dealt w
 
 
 ## 2. Modeling
-### a. Personas
+### a. 	Intended User Persona:
 User and Customer Archetypes
 
 **Name**: Aina
@@ -216,7 +216,7 @@ User and Customer Archetypes
 
 **Faculty**: Faculty of Creative Multimedia
 
-Aina is 22 years old girl who further her study in Multimedia University, majoring in Media Arts. Her past record in his previous college was outstanding where she achieved 3.9 CGPA and very active in sports and club activities. She wants to continue active in club and sports and maintaning the result. Unfortunately, she is new to MMU environment and does not familiar with it yet.
+Aina is 22 years old girl who further her study in Multimedia University, majoring in Media Arts. Her past record in her previous college was outstanding where she achieved 3.9 CGPA and very active in sports and club activities. She wants to continue active in club and sports and maintaning the result. Unfortunately, she is new to MMU environment and does not familiar with it yet.
 
 1. goals
    - To achieve high CGPA by consulting with lecturers other than class time.
@@ -230,19 +230,70 @@ Aina is 22 years old girl who further her study in Multimedia University, majori
 4. Aptitudes
    - She does not like to be in a noisy environment and does not prefer wasting her energy to do something that does not bring any benefit to her.
 
-5. Environments
-
-6. Tools
+5. Tools
    - Depends on FCM and MMU website for information, required mobile data.
 
-7. Challenges
+6. Challenges
    - Does not know about availability in the library.
 
-### b. Other Models
-Represent domain factors beyond individual users and customers
-1. Workflows among multiple people
+### b. Other User Persona: Lecturers
 
-2. Environments
+**Name**: Madam Haziqah 
+
+**Age**: 44
+
+**Gender**: Female
+
+**Faculty**: Faculty of Creative Multimedia
+
+Madam Haziqah is a lecturer who is teaching the major subject of advertising design, she has been teaching for 10 years in MMU.
+
+1. goals
+   - To ensure every student get to learn all the knowledge under her subject
+
+2. Patterns in user and customer behaviors
+   - Sometimes her students want to seek for consultation but she is not inside the room as she needs leaves for something
+
+3. Attitudes
+   - Madam Haziqah is passion to her job as a lecturer because she loves teaching
+
+4. Aptitudes
+   - Sometimes she is busying prepare for meeting and couldn’t meet her students
+
+5. Tools
+   - When Madam Haziqah is leaving her room, she needs to drop a leave message on her door to inform everyone who need to meet her
+
+6. Challenges
+   - Some students will wait at outside her room until she’s back had block the walkway for others lecturer pass by
+   
+### c. Other User Persona: Outsider
+
+**Name**: Angela
+
+**Age**: 21
+
+**Gender**: Female
+
+**Faculty**: Currently not MMU student
+
+1. goals
+   - Always having gathering with her old friends
+
+2. Patterns in user and customer behaviors
+   - Every time she visits her friends in different university will easily get lost
+
+3. Attitudes
+   - Angela loves to socialize and visits her friends
+
+4. Aptitudes
+   - Angela always weak in sense of direction
+
+5. Tools
+   - When she wants to find her friend’s location in their university, she needs to call them by phone to know the direction of places
+
+6. Challenges
+   - When Angela’s phone is no credits and connection service is expired, she couldn’t contact her friend to know destination
+
 
 3. Artifacts
 # II. Synthesis
@@ -253,10 +304,20 @@ The following is the first iteration of a context scenario for a primary persona
 
 Here is Aina's context scenario:
 
-1. After the morning class, Aina would like to meet Madam Tengku for her class assignment consultation, but unfortunately she forgets the lecturer’s room number. She walks to FCM building’s ground floor counter to search for interactive directory. While she key in the lecturer’s name into search button, the directory immediately come out the page about lecturer’s room and also other details information about lecturer. In the lecturer page, it shows a red light icon which is offline status, so Aina decides to walk in consultation after an hour.
-2. When Aina click into news button, the directory screen pop up some event news that happening around MMU campus. After reads the information, she realizes that this week is business week for FIT students at central plaza, she decides to walk to the place to solve her lunch meal later soon.
-3. Aina incidentally view MMU announcement from directory kiosk, she found that next week is final financial clearance and settlement from a reminder article. Then, she contacts her parents for tuition fees settlement notice. 
-4. After consultation, Aina wants to do revision in library. She worries library will be full and noisy will affect her quality of studies, so Aina seek for interactive directory to know library situation now. After knowing there is crowded, Aina walks back her hostel for own revision and could save energy for walking to library check situation.
+1.	In the morning, Aina receives an email from lecturer about class venue changes. The announcement notices students about Media Art Design 1 lecture class had changes to room 2015 starting from today. Due to she is new in MMU and she doesn’t familiar with the environment, when Aina steps into FCM building, she sees a directory kiosk at ground floor lobby. Then, she goes to it to search for the direction place of 2015 lecture room.
+
+2.	After class, Aina wants to meet Madam Tengku for her class assignment consultation, but unfortunately she doesn’t know the lecturer’s room number. She walks to FCM building’s ground floor again to search for interactive directory. While she key-in the lecturer’s name into search button, the directory immediately shows the lecturer’s information and also room number. In the lecturer page, it shows a red light icon which indicates offline status, so Aina decides to walk in consultation after lunch time.
+
+3.	After that, Aina wants to get update news about MMU to know events that happening recently around the campus. So Aina clicks into announcement button icon, the directory screen pop-up a page shows up the entire latest announcement. After reads the information, she realizes that this week is business week for FIT students at central plaza, so she decides to walk to the place to solve her lunch meal later soon because she is feeling bored to MMU restaurants.
+
+4.	From the announcement directory page, Aina also see an announcement about reminder of final financial clearance. She realizes that she forgets to settle full payment of tuition fees. Then, she contacts her parents to tell them the notice about tuition fees settlement.
+
+5.	After meet Madam Tengku for consultation, Aina goes back to her hostel take a rest. She plans to go to the library studies after having a nap.
+
+6.	After Aina having her dinner in the evening, she walks to hostel ground floor using the directory kiosk to check the latest news happened around the world. When she touches the news icon on the screen, it shows up a list of news title with latest date of today.
+
+7.	After checking news, she searches for the situation of library before goes to the place, because she worries library will be full and noisy will affect her quality of studies. After Aina seek for interactive directory, she realizes the situation there is crowded through the live streaming show in the directory kiosk. Hence, she walks back her hostel room for own revision and could save energy so that no need to walk to library for checking situation.
+
 
 
 ### b. Requirements
