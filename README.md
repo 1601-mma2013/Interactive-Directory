@@ -114,13 +114,13 @@ Find various aspect of audience/customer
 
 Understanding user need and behaviors
 
--	Intended User:
+Intended User:
 
 **Student**
 
-•    Student is our Intended User because student is the one who will benefit a lot from this system. This system can ease student to find and received information effectively.
+   Student is our Intended User because student is the one who will benefit a lot from this system. This system can ease student to find and received information effectively.
 
-1.	Problems
+-	Problems
 
 A matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome
 
@@ -134,7 +134,7 @@ A matter or situation regarded as unwelcome or harmful and needing to be dealt w
 (This happen when student need to borrow something that belong to MMU for example the one who handle the works or electrical components in MMU is Facilities Management Department and not all students know where is their office location)
 
 
-2.	Behaviors
+-    Behaviors
 
 **Person acts in response to a particular situation or stimulus**
 
@@ -148,7 +148,7 @@ A matter or situation regarded as unwelcome or harmful and needing to be dealt w
 (The problems of this behavior is student cannot go to consultation or meet-up without having to wasting some time to travel to admin office of the faculty to actually ask for the information every time they required one)
 
 
-3.	Attitudes
+-	Attitudes
 
 **a settled way of thinking or feeling about someone or something, typically one that is reflected in a person's behavior**
 
@@ -167,28 +167,28 @@ A matter or situation regarded as unwelcome or harmful and needing to be dealt w
 •	Some student become lazy to do a walk-in consultation or meet-up with the lecturer because sometimes when they go to the lecturer’s room to do walk in consultation, the lecturer is not available
 (Some lecturers have a lot of other business to be handle outside the campus thus will lessen their availability in MMU for walk-in consultation or meet-up. Some student felt like doing appointment for a consultation taking too much time and they preferred walk-in consultation as they can consult with the lecturer as frequent as possible to ensure their accuracy of doing the assignment and keep it right on track)
 
-4.	Aptitudes
+-	Aptitudes
 
 **a natural ability to do something**
 
 •	Students love to do something that easy and take lesser time to do
 (The system required only a simple touch to the screen as the input to provide student the intended information)
 
-5.	Motivations
+-	Motivations
 
 **the reason or reasons one has for acting or behaving in a particular way**
 
 •	Students will happy to do everything that increases their effectiveness and productivity for their studies in the MMU
 (Student will do something that beneficial for themselves or their studies in MMU if the method is easy and convenient to them. This will increase their level of productivity)
 
-6.	Environments
+-	Environments
 
 **the surroundings or conditions in which a person, animal, or plant lives or operates**
 
 •	MMU environment is a bit boring and doesn’t represent the words multimedia in their name
 (Boring environment will always result in decreasing of productivity of people within the places and for this cases are the student)
 
-7.	Tools
+-	Tools
 
 **a device or implement, used to carry out a particular function**
 
@@ -198,7 +198,7 @@ A matter or situation regarded as unwelcome or harmful and needing to be dealt w
 •	MMLS (Multimedia Learning System)
 (MMLS is the website where lecturer and student communicate. This site is more specific to learning material and announcement from the lecturer to the classes. Sometime the lecturer announce their availability for consultation in the MMLS but only minority. Some lecturer not even use MMLS as a way to communicate with the student)
 
-8.	Challenges
+-	Challenges
 
 •	Students don’t know what is happening in the MMU because there is less way to gain the information easily
 (All notice board within MMU become useless over time because people who use the board to advertise their thing did not update their ads and leave there for years thus making the student uninterested to actually go to the notice board to update about recent announcement)
@@ -272,7 +272,6 @@ Describe necessary capabilities of the product
      - Search Bar
 
 - User Mental Models
-
 - Design Imperatives
 - Product Vision
 - Business Requirements
@@ -301,21 +300,14 @@ Define manifestations of information and functionality
 Design overall structure of user experience
 
 1. Sketch
-	1. Design Product (Wireframe Sketch)
-		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/4map-01_zpskghch1ja.jpg)
-		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/6news-01_zps9ag2xdda.jpg)
-		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/3live%20stream-01_zpsmy8sklgh.jpg)
-		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/1homepage-01_zps0ckaczsx.jpg)
-		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/2lecturepage-01_zpsyy8rgz3w.jpg)
-	
-	2. Installation Project (Wireframe Sketch)
+	1. if your project is a design product
+		1. Your sketch must be a wireframe.
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch1_zpsj3cyqfnu.jpg)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch2_zps4hrz5sob.jpg)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch3_zpsc0152b7m.jpg)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch4_zpsy2lhbhr7.jpg)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch5_zpshhldcqsl.jpg)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch6_zpshvy2y6hp.jpg)
-		
 	3. Must have
 		1. groupings and hierarchy
 		  ![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/mmu/interaction%20diagram_zpsvlvp92xq.jpg)
