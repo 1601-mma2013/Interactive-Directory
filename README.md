@@ -73,14 +73,38 @@ Obstacles
 
 Constraints 
 - Very high budget setup 
-           -*(using too many electronic parts and need high-quality material to build the kiosk to prevent loss and damage from internal and external sources)*
+    - *(using too many electronic parts and need high-quality material to build the kiosk to prevent loss and damage from internal and external sources)*
 - Too many equipment involved for the development of this system and will increase the budget needed for this system
 
 Opportunities 
--	Can generate income for MMU by including paid advertisement 
-            - *(when the kiosk is in idle mode, the advertisement will pop out so that passerby can view the ads)*
--	To improve MMU image as first campus to provide interactive directory technology service to university users
-           - *(So far there are no other universities in Malaysia provide interactive map for their students, visitors, staffs and lecturers)*
+- Can generate income for MMU by including paid advertisement 
+     - *(when the kiosk is in idle mode, the advertisement will pop out so that passerby can view the ads)*
+- To improve MMU image as first campus to provide interactive directory technology service to university users
+     - *(So far there are no other universities in Malaysia provide interactive map for their students, visitors, staffs and lecturers)*
+- Can sell the system to other university to be implemented in their university as well
+     - *(If the system is proven to increase the efficiency of providing and receiving information thus increasing the productivity of the students in MMU, it is a good thing to implement this system to other universities as well)*
+     
+Users
+- Targeted user:
+People who come to MMU
+*(This system will only benefit people who are in MMU)*
+
+- Intended user:
+Students of MMU
+*(Student of MMU will benefit a lot from this system)*
+
+- Potential user:
+Visitors, Staffs and Lecturers of MMU
+*(People who come to MMU might use this system)*
+
+- User:
+ - Lecturers of MMU
+*(Lecturers able to control the Lecturer’s Availability status)*
+
+ - System admin of MMU (1 or 2 person in-charge)
+*(The one who control the input for announcement, update lecturer profile, news, advertisement, map and other info in the system)*
+
+
 
 	
 
@@ -88,36 +112,97 @@ Opportunities
 Understand user needs and behavior and describe it.
 Find various aspect of audience/customer
 
-Users
+Understanding user need and behaviors
 
-2. Potential Users
-   - Visitors, Students, Staffs and Lecturers of MMU
-   
-3. (User’s) Behaviors
-   - They didn't look at paper around MMU on the news board and sometimes it can stuck there for years and not been updated.
-   - Can’t really tell whether specific places are fully occupied or not for example they need to travel to Learning Point whether to discover that places is actually full or not.
+-	Intended User:
 
-4. (User’s) Attitudes
-   - Not really pay attention to the notice board because sometime it is not updated for years.
-   - Depended on circles of acquaintances experiences when it comes to certain location in MMU because there are no map to show location where is the exact location that they want to go.
- 
-   
-5. (User’s) Aptitudes
+**Student**
+
+•    Student is our Intended User because student is the one who will benefit a lot from this system. This system can ease student to find and received information effectively.
+
+1.	Problems
+
+A matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome
+
+•	Don’t know or miss some events or important announcement that related with the student
+(This happen when user did not access to the MMU portal or get tired accessing the website everyday but no announcement is related to them)
+•	Doesn’t know about lecturer’s information that they are not familiar with including room number
+(This happen when student enter new trimester where some subject is being coordinated by unfamiliar or new lecturer)
+•	Don’t know whether a specific place is fully occupied or available for them
+(This happen during peak hour on certain area like Learning Point, Central Food Court, Mamak in Faculty of Creative Media, Faculty of Management Café and any other ‘popular’ places)
+•	Don’t know a certain location in MMU probably rooms in another faculty or other management office in MMU
+(This happen when student need to borrow something that belong to MMU for example the one who handle the works or electrical components in MMU is Facilities Management Department and not all students know where is their office location)
 
 
-6. (User’s) Motivations
-   - Student will increase their productivity if they can obtain more information that beneficial for themselves easily.
+2.	Behaviors
 
-7. (User’s) Environments
-   - There is no detailed map in the MMU, only the large scale of the map showing buildings.
-   - There is no interactive ads
-   - Using to much paper to promote or advertise something
+**Person acts in response to a particular situation or stimulus**
 
-8. (User’s) Tools
-   - Only have MMU and Faculty website to access detailed information about MMU and not everyone have access to the Internet using mobile.
+•	Student always ignored things that seem unrelated to their life
+(The problems of this behavior is sometime there some announcement or news that related or might be interested to them but they tend to miss it)
 
-9. (User’s) Challenges
-   - Do not know what is happening in another faculty that may have related to other faculty.
+•	Student is tired to access the MMU website every day and found out there is no announcement that related to them
+(The problems of this behavior is sometime there some announcement or news that related or might be interested to them but they tend to miss it)
+
+•	Sometime they don’t know lecturer’s room number and availability of the lecturer for a meet-up or consultation because there are no places of this information provided anywhere except admin office of the faculty or when lecturers announce it in class and for some reason, some student might miss it
+(The problems of this behavior is student cannot go to consultation or meet-up without having to wasting some time to travel to admin office of the faculty to actually ask for the information every time they required one)
+
+
+3.	Attitudes
+
+**a settled way of thinking or feeling about someone or something, typically one that is reflected in a person's behavior**
+
+•	Students stop accessing MMU Portal through their PC, laptop or phone after certain amount of time because they thought that there is no announcement in the portal that related to them
+(It is tiring for student to actually log in to MMU Portal and found out nothing new to be seen in the announcement because accessing the portal required multiple level of input where students need to fill their respective username and password. Even the username and password for every website of MMU sometimes is different from each other where it is confusing to remember what account is actually belong to what site)
+
+•	Student only familiar with the environment of their respective faculty even so they are not 100% know the layout of the faculty thoroughly because they have no time to explore the places due to assignment, exercise or classes
+(From foundation to undergraduate student they have a lot of classes and sometime the class is from 9 am to 5 pm every day. Due to this they have no time to actually explore the whole campus to memorize the layout of the campus and thus lower their knowledge of their surroundings because after 6 pm majority of the room in MMU is closed and only some available till-midnight or even 24-hours) 
+
+•	Student love to fill their free time with other social activities like exercising, go out and eat, playing games, co-curriculum or club activities
+(University life is a crucial time for the student to socialize because this is the time where they actually meet different kind of people outside from their origin town or state, and because of this student more preferred to socialize with other human by playing games or something else rather than increase their knowledge about MMU)
+
+•	Student will feel annoy if they travel to the places they want to go and found out the places are fully occupied and they start to become lazy to go to the intended places if the situation happening everyday thus may decreases their social level because they will eventually go back home or hostel
+(Some places within MMU are fully occupied during certain time. Student need to travel to the intended places to actually see if the places are available or not and this will make the student feel their effort travelling to the places is wasted if the situation are repeated frequently)
+
+•	Some student become lazy to do a walk-in consultation or meet-up with the lecturer because sometimes when they go to the lecturer’s room to do walk in consultation, the lecturer is not available
+(Some lecturers have a lot of other business to be handle outside the campus thus will lessen their availability in MMU for walk-in consultation or meet-up. Some student felt like doing appointment for a consultation taking too much time and they preferred walk-in consultation as they can consult with the lecturer as frequent as possible to ensure their accuracy of doing the assignment and keep it right on track)
+
+4.	Aptitudes
+
+**a natural ability to do something**
+
+•	Students love to do something that easy and take lesser time to do
+(The system required only a simple touch to the screen as the input to provide student the intended information)
+
+5.	Motivations
+
+**the reason or reasons one has for acting or behaving in a particular way**
+
+•	Students will happy to do everything that increases their effectiveness and productivity for their studies in the MMU
+(Student will do something that beneficial for themselves or their studies in MMU if the method is easy and convenient to them. This will increase their level of productivity)
+
+6.	Environments
+
+**the surroundings or conditions in which a person, animal, or plant lives or operates**
+
+•	MMU environment is a bit boring and doesn’t represent the words multimedia in their name
+(Boring environment will always result in decreasing of productivity of people within the places and for this cases are the student)
+
+7.	Tools
+
+**a device or implement, used to carry out a particular function**
+
+•	MMU Official Website
+(MMU Official website is the site where all the announcement are announced in their homepage. The downside of the website is student need to log in with their respective user id and password to actually see the announcement and sometimes student get confused whether which password to use to logging in to the site because students in MMU have multiple password set by MMU Management (Camsys, MMU Portal, ICEMS, MMLS and Wifi@MMU) plus the password need to be change every 3 months and it is very troublesome. Also the downside of this website is their need to have access of their own mobile data of the internet or active connection in to actually have access to the site)
+
+•	MMLS (Multimedia Learning System)
+(MMLS is the website where lecturer and student communicate. This site is more specific to learning material and announcement from the lecturer to the classes. Sometime the lecturer announce their availability for consultation in the MMLS but only minority. Some lecturer not even use MMLS as a way to communicate with the student)
+
+8.	Challenges
+
+•	Students don’t know what is happening in the MMU because there is less way to gain the information easily
+(All notice board within MMU become useless over time because people who use the board to advertise their thing did not update their ads and leave there for years thus making the student uninterested to actually go to the notice board to update about recent announcement)
+
 
 ## 2. Modeling
 ### a. Personas
