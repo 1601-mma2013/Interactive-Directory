@@ -14,6 +14,10 @@ Review existing work and product
 1. Field (market) Research
    
 2. Competitors / alternatives / replacement
+
+![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/WhatsApp%20Image%202016-09-28%20at%206.32.04%20AM_zpsugbfdrlt.jpeg)
+![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/WhatsApp%20Image%202016-09-28%20at%206.33.52%20AM_zpsxerphs89.jpeg)
+![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/WhatsApp%20Image%202016-09-28%20at%206.32.50%20AM_zpsd2r3n8cg.jpeg)
 ![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/auditcompetitor_zpsh3u5p0yg.jpg)
 
 3. Relevant technologies
@@ -445,7 +449,7 @@ Design overall structure of user experience
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch6_zpshvy2y6hp.jpg)
 		
 		
-	2. if your project is a design product
+	2. Design Product
 		
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/4map-01_zpskghch1ja.jpg)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/6news-01_zps9ag2xdda.jpg)
@@ -453,10 +457,9 @@ Design overall structure of user experience
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/1homepage-01_zps0ckaczsx.jpg)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/2lecturepage-01_zpsyy8rgz3w.jpg)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/5announcement-01_zpsjvm54er4.jpg)
-	3. Must have
+	
 		1. groupings and hierarchy
 		  ![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/framework-hierarchy_zpshpvzn9hm.jpg)
-		2. Territories of each functional & design elements
-		3. Arrangements of containers & components
-2. Key path Scenario
+
+
 
