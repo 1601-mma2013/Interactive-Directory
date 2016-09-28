@@ -272,6 +272,7 @@ Describe necessary capabilities of the product
      - Search Bar
 
 - User Mental Models
+
 - Design Imperatives
 - Product Vision
 - Business Requirements
@@ -300,14 +301,21 @@ Define manifestations of information and functionality
 Design overall structure of user experience
 
 1. Sketch
-	1. if your project is a design product
-		1. Your sketch must be a wireframe.
+	1. Design Product (Wireframe Sketch)
+		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/4map-01_zpskghch1ja.jpg)
+		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/6news-01_zps9ag2xdda.jpg)
+		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/3live%20stream-01_zpsmy8sklgh.jpg)
+		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/1homepage-01_zps0ckaczsx.jpg)
+		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/2lecturepage-01_zpsyy8rgz3w.jpg)
+	
+	2. Installation Project (Wireframe Sketch)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch1_zpsj3cyqfnu.jpg)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch2_zps4hrz5sob.jpg)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch3_zpsc0152b7m.jpg)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch4_zpsy2lhbhr7.jpg)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch5_zpshhldcqsl.jpg)
 		![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/sketch6_zpshvy2y6hp.jpg)
+		
 	3. Must have
 		1. groupings and hierarchy
 		  ![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/mmu/interaction%20diagram_zpsvlvp92xq.jpg)
