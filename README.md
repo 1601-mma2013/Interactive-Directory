@@ -9,6 +9,10 @@
 ### a. Scope
 Objective - to ensure the increases of productivity of the student by increasing their efficiency of receiving and gaining information about MMU and their respective faculty
 
+Financial Constraints - This is very high budget setup because it involved a lot of electronic parts with a lot of technical expertise
+(We cannot afford to hire expertise to consult about technical parts and we do not afford the part needed to setup this system in MMU)
+
+
 ### b. Audit
 Review existing work and product
 1. Field (market) Research
