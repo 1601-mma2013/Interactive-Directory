@@ -382,16 +382,55 @@ Describe necessary capabilities of the product
 ### a. Elements
 Define manifestations of information and functionality
 1. Information
-	2. Form factor - A rectangular kiosk with 16:9 screen 
-	3. Posture
-	4. Input Method - Touchscreen
+-	Announcement
+-	News
+-	Lecturer Availability
+-	Live Streaming Video of Learning Point 
+-	Live Streaming Video of Central Food Court 
+-	Live Streaming Video of Faculty of Management Cafe 
+-	Live Streaming Video of Faculty of Creative Multimedia Mamak
+-	Live Streaming Video of Deen’s Cafe
+-	Map of the MMU with detailed of every room available in the faculty and the function (including lecturer’s room, classes and so on)
+
+2. Form factor - A rectangular kiosk with 16:9 screen 
+3. Posture
+4. Input Method - Touchscreen
 
 2. Functional and Data Elements
-	- Information: Announcement, news, lecturer availability, no of people at specific places and live feed
-	- Functions
-	- Mechanisms
-	- Actions
-	- Domain object models
+-	Can view the latest announcement on the announcement page
+-	Can view the latest news on news section
+-	Can search every room name, location, numbers to obtain the location of the room and info
+-	Can view Lecturer Availability by searching their name in search bar
+-	Live Streaming Video of Learning Point to know the real-time situation
+-	Live Streaming Video of Central Food Court to know the real-time situation
+-	Live Streaming Video of Faculty of Management Café to know the real-time situation
+-	Live Streaming Video of Faculty of Creative Multimedia Mamak to know the real-time situation
+-	Live Streaming Video of Deen’s Cafe to know the real-time situation
+-	Map of the MMU with detailed of every room available in the faculty and the function (including lecturer’s room, classes and so on)
+
+3.	Mechanism
+-	The announcement on the announcement page is linked with the MMU Portal Announcement Section
+-	The news is linked with the News section in the MMU Portal
+-	Lecturer Availability is linked by the switch in every lecturer’s room, the lecturer can set it as available or not available
+-	Live Streaming Video of Learning Point is linked with the CCTV in the Learning Point
+-	Live Streaming Video of Central Food Court is linked with the CCTV in the Central Food Court
+-	Live Streaming Video of Faculty of Management Café is linked with the CCTV in the Faculty of Management Cafe
+-	Live Streaming Video of Faculty of Creative Multimedia Mamak is linked with the CCTV in the Faculty of Creative Multimedia Mamak.
+-	Live Streaming Video of Deen’s Cafe to know the real-time situation
+-	Map of the MMU with detailed of every room available in the faculty and the function (including lecturer’s room, classes and so on)
+
+4. Actions
+-	The announcement page is to update user the recent announcement around MMU
+-	The news section is to update user the recent news
+-	Lecturer Availability to notify user about the availability of the lecturer
+-	Live Streaming Video of Learning Point is to provide real-time data in the Learning Point
+-	Live Streaming Video of Central Food Court is to provide real-time data in the Central Food Court
+-	Live Streaming Video of Faculty of Management Café is to provide real-time data in the Faculty of Management Café
+-	Live Streaming Video of Faculty of Creative Multimedia Mamak is to provide real-time data in the Faculty of Creative Multimedia Mamak
+-	Live Streaming Video of Deen’s Cafe is to provide real-time data in the Deen’s Cafe
+-       Map of the MMU with detailed of every room available in the faculty and the function to provided detail location to the user
+
+
 
 ### b. Framework
 Design overall structure of user experience
