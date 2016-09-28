@@ -60,25 +60,28 @@ Product{project} Vision
 
 Risk
 - Someone may vandalize or steal part of the kiosks 
-(can be prevent by using safer material to cover the kiosk but it will add on financial constraints because it is very expensive)
+   - *(can be prevent by using safer material to cover the kiosk but it will add on financial constraints because it is very expensive)*
 - Internal or External parts of the system may stop working or malfunction
-(it may not work due to some internal technical issues that can be solved by hiring technician to maintain the kiosk but it will add up on financial constraints because we need to pay the technician and the replacement for the damaged parts)
+    - *(it may not work due to some internal technical issues that can be solved by hiring technician to maintain the kiosk but it will add up on financial constraints because we need to pay the technician and the replacement for the damaged parts)*
 - Software may have some bug and error
-(can be solved by hiring programmer to handle the software system but it will add up on financial constraints because we need to pay the - Stop functioning if blackout happen in the campus because the system required electricity and internet access to function
-(can be solved by doing alternate wiring for the kiosk and directed it to backup generator other than main generator)
-
- 
-What is the worst result?
--No one will use the kiosk to obtain information
+    - *(can be solved by hiring programmer to handle the software system but it will add up on financial constraints because we need to pay the programmer)*
+- Stop functioning if blackout happen in the campus because the system required electricity and internet access to function
+    - *(can be solved by doing alternate wiring for the kiosk and directed it to backup generator other than main generator)*
 
 Obstacles
 -To ensure the safety of the product from vandalizing or loss of the parts due to the set-up in the open space
 
-4. Constraints 
-	1. Internal limitations 
-		2. Very Costly - Use a lot of mechanical parts.
-5. Opportunities 
-	1. Strength: Can generate income for university by displaying paid advertisement when someone not using the product
+Constraints 
+- Very high budget setup 
+           -*(using too many electronic parts and need high-quality material to build the kiosk to prevent loss and damage from internal and external sources)*
+- Too many equipment involved for the development of this system and will increase the budget needed for this system
+
+Opportunities 
+-	Can generate income for MMU by including paid advertisement 
+            - *(when the kiosk is in idle mode, the advertisement will pop out so that passerby can view the ads)*
+-	To improve MMU image as first campus to provide interactive directory technology service to university users
+           - *(So far there are no other universities in Malaysia provide interactive map for their students, visitors, staffs and lecturers)*
+
 	
 
 ### d. User Observations
