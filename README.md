@@ -295,7 +295,6 @@ Madam Haziqah is a lecturer who is teaching the major subject of advertising des
    - When Angela’s phone is no credits and connection service is expired, she couldn’t contact her friend to know destination
 
 
-3. Artifacts
 # II. Synthesis
 ## 1. Requirements Definition
 ### a. Context Scenarios
