@@ -322,25 +322,61 @@ Here is Aina's context scenario:
 ### b. Requirements
 Describe necessary capabilities of the product
 - Functional and data needs
-     - Live Feed
-     - Counter
-     - Announcement
-     - News
-     - Advertisement
-     - Map
-     - Lecturer Availability
+     - Thematic Map of the campus with details of the room name, room no and locations
+     - Announcement from MMU Management, Faculty or any other sources related to the MMU student
+     - Advertisement from within MMU or outside sources
+     - Lecturer availability
      - Search Bar
+     - Camera Live Streaming of Central Food Court, Learning Point, Faculty of Management Café, Mamak of Faculty of Creative Multimedia and Deen’s Café
+
+
 
 - User Mental Models
 	![alt tag](http://i908.photobucket.com/albums/ac283/ziq_cyrille/mental-modal_zpsum9nv2rv.jpg)
 - Design Imperatives
 - Product Vision
+   -	To ensure the increases of productivity of the student by increasing their efficiency of receiving and gaining information about MMU and their respective faculty
 - Business Requirements
 - Technology
-     - Touch screen
-     - Sensor
-     - Wireless
-     - Internet
+1.	For targeted user to interact (Output):
+
+ -	Touch – Screen based Kiosks
+(user will interact with it to receive every kind of information provided)
+ -	Search Bar
+(will provide a box for user to type a keyword that they needed to find information)
+
+2.	To connect with the kiosks or built-in the kiosk:
+
+ -	Boolean Type Input Switch
+(the switch will be use to provide input for lecturer’s availability)
+
+ -	Camera Live Streaming
+(the camera will provide the real-time view of intended places)
+
+ -	MMU and Faculty Announcement Web Pages
+(the Web Pages will provide the latest announcement about MMU activities)
+
+ -	Lecturer’s Brief Information Web Pages
+(will provide information about the lecturer’s room number, availability and room location)
+
+ -	Map of MMU with GPS-like Function
+(will provide information about the lecturer’s room number, availability and room location)
+
+ -	Search Directory
+(will provide a list of possible information based on specific keywords used by the user)
+
+3.	For user to control (Input):
+
+ -	MMU and Faculty Announcement Web Pages
+(the Web Pages will be updated by a person in-charge of this system)
+
+ -	Lecturer Brief Information Web Pages
+(the Web Pages will be updated by a person in-charge of this system)
+
+ -	Boolean Type Input Switch
+(lecturer will decide the availability of themselves)
+
+
 
 ## 2. Design Framework
 ### a. Elements
